@@ -6,7 +6,7 @@ namespace Grade
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World and Marko more options!");
+            Console.WriteLine("Hello World and Marko more options i sada sa deska!");
         }
     }
 }
